@@ -1,2 +1,1 @@
-# learn-js
-js examples for fast learning
+Добрый день! Папку node_modules добавлять в репозиторий на Github не стала - слишком много файлов, он ругается :)
